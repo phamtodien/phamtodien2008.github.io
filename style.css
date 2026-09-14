@@ -1,0 +1,225 @@
+/* =========================
+   CÀI ĐẶT CHUNG
+========================= */
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+
+    font-family:
+        Arial,
+        Helvetica,
+        sans-serif;
+
+    background: #f7f7f7;
+
+    color: #222;
+
+    line-height: 1.6;
+}
+
+
+/* =========================
+   KHUNG WEBSITE
+========================= */
+
+.container {
+    width: 90%;
+
+    max-width: 900px;
+
+    margin: 60px auto;
+}
+
+
+/* =========================
+   TIÊU ĐỀ
+========================= */
+
+header {
+    border-bottom: 1px solid #ddd;
+
+    padding-bottom: 25px;
+
+    margin-bottom: 50px;
+}
+
+header h1 {
+    margin: 0;
+
+    font-size: 42px;
+
+    letter-spacing: -1px;
+}
+
+.subtitle {
+    color: #666;
+
+    font-size: 18px;
+
+    margin-top: 10px;
+}
+
+
+/* =========================
+   GIỚI THIỆU
+========================= */
+
+.intro {
+    margin-bottom: 60px;
+}
+
+.intro h2 {
+    font-size: 32px;
+
+    margin-bottom: 10px;
+}
+
+.intro p {
+    color: #555;
+
+    font-size: 18px;
+}
+
+
+/* =========================
+   TIÊU ĐỀ SECTION
+========================= */
+
+section h2 {
+    font-size: 25px;
+
+    margin-bottom: 25px;
+}
+
+
+/* =========================
+   CARD
+========================= */
+
+.cards {
+    display: flex;
+
+    flex-direction: column;
+
+    gap: 12px;
+}
+
+.card {
+    display: flex;
+
+    align-items: center;
+
+    gap: 20px;
+
+    padding: 20px;
+
+    background: white;
+
+    border: 1px solid #ddd;
+
+    text-decoration: none;
+
+    color: #222;
+
+    transition: 0.2s;
+}
+
+.card:hover {
+    transform: translateX(6px);
+
+    border-color: #222;
+}
+
+
+/* SỐ */
+
+.number {
+    font-size: 20px;
+
+    font-weight: bold;
+
+    color: #888;
+
+    min-width: 40px;
+}
+
+
+/* TIÊU ĐỀ CARD */
+
+.card h3 {
+    margin: 0 0 5px 0;
+
+    font-size: 19px;
+}
+
+
+/* MÔ TẢ */
+
+.card p {
+    margin: 0;
+
+    color: #777;
+}
+
+
+/* =========================
+   PHẦN AI
+========================= */
+
+.extra {
+    margin-top: 60px;
+
+    padding: 30px;
+
+    background: white;
+
+    border: 1px solid #ddd;
+}
+
+
+/* =========================
+   FOOTER
+========================= */
+
+footer {
+    margin-top: 70px;
+
+    padding-top: 25px;
+
+    border-top: 1px solid #ddd;
+
+    color: #888;
+
+    font-size: 14px;
+}
+
+
+/* =========================
+   ĐIỆN THOẠI
+========================= */
+
+@media (max-width: 600px) {
+
+    .container {
+        width: 92%;
+
+        margin: 30px auto;
+    }
+
+    header h1 {
+        font-size: 30px;
+    }
+
+    .intro h2 {
+        font-size: 26px;
+    }
+
+    .card {
+        padding: 15px;
+    }
+
+}
