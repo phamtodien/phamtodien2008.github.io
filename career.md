@@ -21,9 +21,10 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 | Lớp | Tin 1 | Tin 2 | Tin 3 | Tôi đã có? |
 |---|---|---|---|---|
 | Kiến thức |Có ít nhất 2 năm kinh nghiệm với ngôn ngữ lập trình Java, Hiểu biết về Spring, thái độ làm việc xuất sắc; có kỹ năng giải quyết vấn đề, tư duy phản biện và giao tiếp tốt, đam mê lập trình, đổi mới sáng tạo và giải quyết các vấn đề đầy thách thức | Khả năng đã được chứng minh trong việc đơn giản hóa một giải pháp phức tạp thành các thành phần rời rạc để song song hóa các nỗ lực phát triển, qua đó rút ngắn tổng thời gian đưa sản phẩm ra thị trường.
-| kỹ năng | … | … | … | …/…/… |
-| 2 | … | … | … | …/…/… |
-| 3 | … | … | … | …/…/… |
+| kỹ năng | Khả năng đã được chứng minh trong việc đơn giản hóa một giải pháp phức tạp thành các thành phần rời rạc để song song hóa các nỗ lực phát triển, qua đó rút ngắn tổng thời gian đưa sản phẩm ra thị trường.Có kinh nghiệm làm việc với React JS, TDD, CI/CD, SQL, Java/J2EE, Spring và Spring Boot.Phối hợp cùng Quản lý Sản phẩm (Product Manager), Kiến trúc sư Giải pháp (Solution Architect) và các đồng nghiệp kỹ thuật để định nghĩa, phân tích, ước lượng mức độ công sức nhằm bàn giao các giải pháp ở quy mô lớn đáp ứng yêu cầu của khách hàng.Có kỹ năng viết mã sạch, chất lượng cao, được kiểm thử tốt; thành thạo lập trình hướng đối tượng (OOP) và các nguyên lý thiết kế SOLID.Thành thạo Phát triển hướng kiểm thử (TDD) và Phát triển hướng hành vi (BDD).Thành thạo xây dựng Dịch vụ vi mô (Microservices) bằng Java 1.8 trở lên, J2EE, Spring, Spring Boot.Có kinh nghiệm tiếp xúc với Apigee, Ping Federate, OAuth và OpenID Connect.Có kinh nghiệm sử dụng các công nghệ container hóa và điện toán đám mây, ưu tiên Azure và Pivotal Cloud Foundry.Có kinh nghiệm trước đây làm việc với Tích hợp và Triển khai liên tục (CI/CD) trong môi trường phát triển sản phẩm định hướng DevOps, đồng thời quen thuộc với các công nghệ giám sát hiện đại như Splunk, New Relic và PagerDuty.Định hướng và đóng vai trò cố vấn với chuyên môn kỹ thuật trong các lĩnh vực kiến trúc, thiết kế, triển khai và kiểm thử.Có kinh nghiệm làm việc với các mẫu nhắn tin bất đồng bộ (asynchronous messaging patterns) như IBM MQ, Rabbit MQ, Kafka.Thành thạo cả cơ sở dữ liệu NoSQL và Cơ sở dữ liệu quan hệ (Relational Databases).Có kiến thức làm việc với phương pháp luận phát triển Agile như Scrum, XP và Kanban.
+ | … | … | …/…/… |
+| thái độ | … | … | … | …/…/… |
+| công cụ | … | … | … | …/…/… |
 ## Ba tin tuyển dụng
 
 | # | Công ty | Vị trí | Đường dẫn | Ngày truy cập |
