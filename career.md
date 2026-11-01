@@ -20,9 +20,9 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 
 | Lớp | Tin 1 | Tin 2 | Tin 3 | Tôi đã có? |
 |---|---|---|---|---|
-| kiến thức| … | … | … |
-| kĩ năng | … | … | … | … |
-| thái độ | … | … | … | … |
+| kiến thức| Có ít nhất 2 năm kinh nghiệm với ngôn ngữ lập trình Java, hiểu biết về Spring, thái độ làm việc xuất sắc; có kỹ năng giải quyết vấn đề, tư duy phản biện và giao tiếp tốt, đam mê lập trình, đổi mới sáng tạo và giải quyết các vấn đề đầy thách thức | … | … |
+| kĩ năng | Ngôn ngữ lập trình: Ít nhất 2 năm kinh nghiệm lập trình Java.Framework: Hiểu biết về Spring.Nhiệm vụ kỹ thuật:Bảo trì ứng dụng cho khách hàng Nhật Bản.Tùy chỉnh (customization) ứng dụng trên nền tảng JavaTích hợp với hệ thống bên ngoài (integration with external system).Tối ưu hóa ứng dụng để cải thiện hiệu năng | … | … | … |
+| thái độ |  Xuất sắc (excellent working attitude).Kỹ năng mềm:Giải quyết vấn đề (problem solving).Tư duy phản biện (critical thinking).Kỹ năng giao tiếp (communication skills).| … | … | … |
 | công cụ | … | … | … | … |
 ## Ba tin tuyển dụng
 
