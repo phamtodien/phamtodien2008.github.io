@@ -22,69 +22,13 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 |---|---|---|---|---|
 | Kiến thức |Có ít nhất 2 năm kinh nghiệm với ngôn ngữ lập trình Java, Hiểu biết về Spring, thái độ làm việc xuất sắc; có kỹ năng giải quyết vấn đề, tư duy phản biện và giao tiếp tốt, đam mê lập trình, đổi mới sáng tạo và giải quyết các vấn đề đầy thách thức | Khả năng đã được chứng minh trong việc đơn giản hóa một giải pháp phức tạp thành các thành phần rời rạc để song song hóa các nỗ lực phát triển, qua đó rút ngắn tổng thời gian đưa sản phẩm ra thị trường.
 
-Có kinh nghiệm làm việc với React JS, TDD, CI/CD, SQL, Java/J2EE, Spring và Spring Boot.
-
-Phối hợp cùng Quản lý Sản phẩm (Product Manager), Kiến trúc sư Giải pháp (Solution Architect) và các đồng nghiệp kỹ thuật để định nghĩa, phân tích, ước lượng mức độ công sức nhằm bàn giao các giải pháp ở quy mô lớn đáp ứng yêu cầu của khách hàng.
 
 
 
-Có kiến thức làm việc với phương pháp luận phát triển Agile như Scrum, XP và Kanban.|Thiết kế và phát triển các tính năng, sản phẩm tích hợp LLM (Mô hình ngôn ngữ lớn) trong toàn bộ vòng đời — từ khâu tạo mẫu (prototyping) đến triển khai sản xuất (production deployment).
 
-Triển khai các mẫu tác nhân (agentic patterns) bao gồm việc sử dụng công cụ (tool use), lập kế hoạch (planning) và bộ nhớ (memory) cho hệ thống AI.
 
-Xây dựng và duy trì các đường ống dữ liệu (data pipelines) phục vụ việc tạo dữ liệu tổng hợp (synthetic data generation) dùng trong huấn luyện, tinh chỉnh (fine-tuning) và đánh giá.
 
-Triển khai, giám sát và duy trì các mô hình Machine Learning trong môi trường vận hành (production) bằng cách áp dụng các tiêu chuẩn thực hành tốt nhất về MLOps.
 
-Tích hợp các mô hình nhúng (embedding models) và cơ sở dữ liệu vector (vector databases) vào các luồng công việc của sản phẩm.
-
-Chịu trách nhiệm toàn diện (end-to-end) đối với các tính năng, làm việc độc lập từ khâu lập phạm vi (scoping) cho đến khi bàn giao (delivery). |một phần|
-| Kỹ năng | Ngôn ngữ lập trình: Ít nhất 2 năm kinh nghiệm lập trình Java.
-
-Framework: Hiểu biết về Spring.
-
-Nhiệm vụ kỹ thuật:
-
-Bảo trì ứng dụng cho khách hàng Nhật Bản.
-
-Tùy chỉnh (customization) ứng dụng trên nền tảng Java.
-
-Tích hợp với hệ thống bên ngoài (integration with external system).
-
-Tối ưu hóa ứng dụng để cải thiện hiệu năng.| ỹ năng phát triển phần mềm & thiết kế:
-
-Khả năng đơn giản hóa giải pháp phức tạp thành các thành phần rời rạc để song song hóa công việc, giúp rút ngắn thời gian đưa sản phẩm ra thị trường.
-
-Kỹ năng viết mã nguồn sạch (clean code), chất lượng cao, được kiểm thử tốt.
-
-Thành thạo Lập trình hướng đối tượng (OOP) và các nguyên lý thiết kế SOLID.
-
-Khả năng viết kiểm thử đơn vị (unit tests).
-
-Kỹ năng phân tích, định nghĩa và ước lượng khối lượng công việc (level of effort) phối hợp cùng Product Manager và Solution Architect.
-
-Kỹ năng chuyên môn kỹ thuật nâng cao:
-
-Thành thạo Phát triển hướng kiểm thử (TDD) và Phát triển hướng hành vi (BDD).
-
-Khả năng xây dựng Microservices.
-
-Kỹ năng làm việc với các mẫu nhắn tin bất đồng bộ (asynchronous messaging patterns).
-
-Kỹ năng làm việc với cả Cơ sở dữ liệu quan hệ (Relational Databases) và NoSQL.
-
-Nắm vững phương pháp luận Agile (Scrum, XP, Kanban). | … | … |
-| Thái độ | Ngôn ngữ lập trình: Ít nhất 2 năm kinh nghiệm lập trình Java.
-
-Framework: Hiểu biết về Spring.
-
-Nhiệm vụ kỹ thuật:
-
-Bảo trì ứng dụng cho khách hàng Nhật Bản.
-
-Tùy chỉnh (customization) ứng dụng trên nền tảng Java.
-
-Tích hợp với hệ thống bên ngoài (integration with external system).
 
 Tối ưu hóa ứng dụng để cải thiện hiệu năng. | … | … | … |
 | Công cụ | Ngôn ngữ: Java (tối thiểu 2 năm kinh nghiệm)
