@@ -30,10 +30,7 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 
 
 
-Tối ưu hóa ứng dụng để cải thiện hiệu năng. | … | … | … |
-| Công cụ | Ngôn ngữ: Java (tối thiểu 2 năm kinh nghiệm)
 
-Framework: Spring
 
 Nền tảng/Hệ thống: Các ứng dụng Java sẵn có của khách hàng Nhật Bản và khả năng tích hợp với hệ thống bên ngoài. | … | … | … |
 
