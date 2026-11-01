@@ -22,18 +22,6 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 |---|---|---|---|---|
 | Kiến thức |Có ít nhất 2 năm kinh nghiệm với ngôn ngữ lập trình Java, Hiểu biết về Spring, thái độ làm việc xuất sắc; có kỹ năng giải quyết vấn đề, tư duy phản biện và giao tiếp tốt, đam mê lập trình, đổi mới sáng tạo và giải quyết các vấn đề đầy thách thức | Khả năng đã được chứng minh trong việc đơn giản hóa một giải pháp phức tạp thành các thành phần rời rạc để song song hóa các nỗ lực phát triển, qua đó rút ngắn tổng thời gian đưa sản phẩm ra thị trường.
 
-
-
-
-
-
-
-
-
-
-
-Nền tảng/Hệ thống: Các ứng dụng Java sẵn có của khách hàng Nhật Bản và khả năng tích hợp với hệ thống bên ngoài. | … | … | … |
-
 ## Ba tin tuyển dụng
 
 | # | Công ty | Vị trí | Đường dẫn | Ngày truy cập |
