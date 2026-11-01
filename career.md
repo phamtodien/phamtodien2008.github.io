@@ -28,9 +28,9 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 
 | # | Công ty | Vị trí | Đường dẫn | Ngày truy cập |
 |---|---|---|---|---|
-| 1 | FPT SOFT WEAR | Tòa nhà FPT, Phố Duy Tân, Phường Cầu Giấy, Thành phố Hà Nội (hoặc khuôn viên phần mềm tại Khu Công nghệ cao Hòa Lạc, Km29, Đại lộ Thăng Long, Thạch Thất, Hà Nội). | … | …/…/… |
-| 2 | CNC GLOBAL | Tầng 7–10, Tòa nhà CMC, số 11 phố Duy Tân, phường Cầu Giấy (hoặc phường Dịch Vọng Hậu), quận Cầu Giấy, Thành phố Hà Nội. | … | …/…/… |
-| 3 | TMA SOLUTION | 111 Nguyễn Đình Chính, Phường Cầu Kiệu (trước đây là P.15), Quận Phú Nhuận, Thành phố Hồ Chí Minh | … | …/…/… |
+| 1 | FPT SOFT WEAR | Tòa nhà FPT, Phố Duy Tân, Phường Cầu Giấy, Thành phố Hà Nội (hoặc khuôn viên phần mềm tại Khu Công nghệ cao Hòa Lạc, Km29, Đại lộ Thăng Long, Thạch Thất, Hà Nội). | https://career.fpt-software.com/co-hoi-viec-lam/ | …/…/… |
+| 2 | CNC GLOBAL | Tầng 7–10, Tòa nhà CMC, số 11 phố Duy Tân, phường Cầu Giấy (hoặc phường Dịch Vọng Hậu), quận Cầu Giấy, Thành phố Hà Nội. | https://cmcglobal.com.vn/career/full-stack-developer-reactjs-java/ | …/…/… |
+| 3 | TMA SOLUTION | 111 Nguyễn Đình Chính, Phường Cầu Kiệu (trước đây là P.15), Quận Phú Nhuận, Thành phố Hồ Chí Minh | https://www.tma.vn/tuyen-dung/chi-tiet/ai-engineer-1087 | …/…/… |
 
 Ảnh chụp màn hình ba tin lưu trong thư mục `anh/`.
 
