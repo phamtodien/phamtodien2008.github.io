@@ -28,9 +28,9 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 
 | # | Công ty | Vị trí | Đường dẫn | Ngày truy cập |
 |---|---|---|---|---|
-| 1 | … | … | … | …/…/… |
-| 2 | … | … | … | …/…/… |
-| 3 | … | … | … | …/…/… |
+| 1 | FPT SOFT WEAR | … | … | …/…/… |
+| 2 | CNC GLOBAL | … | … | …/…/… |
+| 3 | TMA SOLUTION | … | … | …/…/… |
 
 Ảnh chụp màn hình ba tin lưu trong thư mục `anh/`.
 
