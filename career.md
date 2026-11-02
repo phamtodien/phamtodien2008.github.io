@@ -4,9 +4,7 @@ title: Chân dung nghề của tôi
 
 # Chân dung nghề của tôi
 
-> **Bài 1 · Xoá dòng này khi nộp.** Mọi chỗ có dấu … là chỗ em điền.
-> Đọc kỹ đề bài trên LMS trước khi viết. Bảy mục dưới đây là bắt buộc.
-
+> **
 ## Hướng tôi nhắm
 
 hướng tôi nhắm là: Java developer
@@ -71,6 +69,6 @@ Cụ thể tới mức tháng sau kiểm được.
 | **Hỏi** | Nhờ AI tìm ra 3 tin tuyển dụng  |
 | **Hoài** | Xác thực thông tin về 3 tin tuyển dụng bằng cách lên web của 3 tin tuyển dụng đó và phát hiện AI đã sai một phần |
 | **Học** | Nhiệm vụ đã thực hiện: Đặt câu hỏi cho AI ở hai vai trò đối lập (Luật sư công ty vs. Đại diện người dùng) về tình huống "Thu thập vị trí người dùng mà không khai báo trong chính sách riêng tư, hạn chót là ngày mai". Lập luận nổi bật của Luật sư công ty: AI chỉ ra rằng việc triển khai gấp là chiến lược sống còn để duy trì năng lực cạnh tranh, có thể tận dụng các điều khoản chung hoặc cập nhật bổ sung chính sách riêng tư sau mà không làm gián đoạn vận hành kỹ thuật hay ảnh hưởng hiệu quả kinh doanh trước mắt. Lập luận nổi bật của Phía người dùng: AI nhấn mạnh đây là hành vi vi phạm nghiêm trọng tính minh bạch và quyền riêng tư khi thu thập dữ liệu nhạy cảm mà không có sự đồng thuận rõ ràng (informed consent), đẩy công ty vào nguy cơ khủng hoảng truyền thông, kiện tụng và án phạt pháp lý nặng nề. Quyết định cá nhân & Bài học rút ra: Tạm hoãn triển khai tính năng thu thập vị trí và chỉ đưa lên khi chính sách riêng tư được cập nhật minh bạch. Áp lực tiến độ kinh doanh không thể đánh đổi bằng lòng tin khách hàng và uy tín thương hiệu lâu dài. Việc phản biện 2 chiều giúp nhìn rõ rủi ro pháp lý và đạo đức trước khi đưa ra quyết định kỹ thuật.    |
-| **Hành** | … |
+| **Hành** | Sửa lại những phần AI đã sai   |
 
 Công cụ đã dùng: Gemini 
