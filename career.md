@@ -52,9 +52,9 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 
 Tình huống: thu thập vị trí người dùng mà không khai báo trong chính sách riêng tư, hạn là ngày mai.
 
-- Phía luật sư công ty lập luận rằng: …
-- Phía người dùng lập luận rằng: …
-- **Quyết định của tôi**, và vì sao: …
+- Phía luật sư công ty lập luận rằng: Việc triển khai gấp tính năng thu thập vị trí mang tính chiến lược sống còn để duy trì năng lực cạnh tranh sản phẩm ngay trong ngày mai. Hơn nữa, công ty có thể điều chỉnh hoặc ngầm định phạm vi thu thập thông qua các điều khoản dịch vụ chung đã có sẵn, hoặc tiến hành cập nhật bổ sung chính sách riêng tư sau trong thời gian ngắn mà không gây gián đoạn vận hành kỹ thuật hay làm ảnh hưởng trực tiếp đến hiệu quả kinh doanh trước mắt.
+- Phía người dùng lập luận rằng: Đây là hành vi vi phạm nghiêm trọng quyền riêng tư và tính minh bạch, trực tiếp xâm phạm dữ liệu cá nhân nhạy cảm của khách hàng mà không có sự đồng thuận rõ ràng (informed consent). Việc thu thập ngầm này không chỉ vi phạm các quy định pháp luật về bảo vệ dữ liệu mà còn phá hủy hoàn toàn lòng tin của người dùng, đẩy công ty vào rủi ro khủng hoảng truyền thông, kiện tụng và các án phạt hành chính nặng nề.
+- **Quyết định của tôi**, và vì sao: Tôi quyết định tạm hoãn việc triển khai thu thập vị trí người dùng vào ngày mai và kiên quyết không đưa tính năng này lên hệ thống cho đến khi chính sách riêng tư được cập nhật minh bạch. Lý do là vì mặc dù áp lực tiến độ từ phía kinh doanh rất lớn, nhưng việc vi phạm quyền riêng tư và đánh mất lòng tin của người dùng sẽ mang lại hậu quả thảm khốc hơn rất nhiều so với việc chậm trễ ra mắt một phiên bản tính năng. Việc âm thầm thu thập dữ liệu định danh nhạy cảm mà không có sự đồng thuận tường minh sẽ đẩy công ty đối mặt với rủi ro pháp lý nặng nề, các khoản phạt hành chính khổng lồ và nguy cơ mất khách hàng vĩnh viễn. Uy tín thương hiệu và đạo đức nghề nghiệp là tài sản cốt lõi không thể đánh đổi bằng lợi ích thương mại ngắn hạn. Do đó, tôi sẽ yêu cầu đội ngũ kỹ thuật vô hiệu hóa tính năng định vị trong bản cập nhật ngày mai, đồng thời phối hợp gấp với bộ phận pháp chế để minh bạch hóa thông tin trước khi phát hành chính thức.
 
 ## Ba việc tôi làm trong học kỳ này
 
