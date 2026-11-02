@@ -2,11 +2,6 @@
 title: Soi một công cụ AI
 ---
 
-# Soi một công cụ AI
-
-> Chọn năm câu mà em **đã biết chắc đáp án**. Hỏi thứ mình không biết
-> thì không có gì để đối chiếu, và mọi câu trả lời đều nghe hợp lý như nhau.
-
 **Công cụ đã thử:** Gemini · **Ngày thử:** 30/10/2026
 
 ## Bảng kiểm thử năm câu
