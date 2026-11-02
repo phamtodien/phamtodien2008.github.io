@@ -44,9 +44,9 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 
 **Chỗ thứ hai**
 
-- AI viết: …
-- Tin tuyển dụng thật ra viết: …
-- Tôi sửa thành: …
+- AI viết: có tôi đa 2 năm kinh nghiệm với ngôn ngữ lập trình Java 
+- Tin tuyển dụng thật ra viết: Có ít nhất 2 năm kinh nghiệm với ngôn ngữ lập trình Java
+- Tôi sửa thành: Có ít nhất 2 năm kinh nghiệm với ngôn ngữ lập trình Java
 
 ## Một quyết định đạo đức
 
