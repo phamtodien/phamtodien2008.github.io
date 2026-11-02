@@ -58,9 +58,9 @@ Tình huống: thu thập vị trí người dùng mà không khai báo trong ch
 
 ## Ba việc tôi làm trong học kỳ này
 
-1. …
-2. …
-3. …
+1. Tích cực trao dồi thêm kiến thức về hướng đã chọn 
+2. Lập ra bảng kế hoạch cụ thể để từng bước tiến gần hơn tới mục tiêu nghành nghề 
+3. Học và làm quen với các kĩ năng và các công cụ lập trình mà ngành nghề của bản thân yêu cầu.
 
 Cụ thể tới mức tháng sau kiểm được.
 
@@ -68,9 +68,9 @@ Cụ thể tới mức tháng sau kiểm được.
 
 | Bước | Tôi đã làm gì |
 |---|---|
-| **Hỏi** | … |
-| **Hoài** | … |
+| **Hỏi** | Nhờ AI tìm ra 3 tin tuyển dụng  |
+| **Hoài** | Xác thực thông tin về 3 tin tuyển dụng bằng cách lên web của 3 tin tuyển dụng đó và phát hiện AI đã sai một phần |
 | **Học** | … |
 | **Hành** | … |
 
-Công cụ đã dùng: …
+Công cụ đã dùng: Gemini 
