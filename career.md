@@ -4,7 +4,6 @@ title: Chân dung nghề của tôi
 
 # Chân dung nghề của tôi
 
-> **
 ## Hướng tôi nhắm
 
 hướng tôi nhắm là: Java developer
